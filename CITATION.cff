@@ -1,0 +1,33 @@
+# Comment citer l'Observatoire de l'IA dans les entreprises d'Occitanie.
+#
+# Ce fichier est genere par scripts/miroir-observatoire.mjs a chaque releve.
+# Ne pas l'editer a la main : la date et les chiffres viennent de corpus.json.
+cff-version: 1.2.0
+message: "Si vous utilisez ces donnees, citez-les comme ci-dessous."
+title: "Observatoire de l'IA dans les entreprises d'Occitanie"
+abstract: >-
+  Releve periodique des offres d'emploi publiees en Occitanie qui mentionnent
+  l'intelligence artificielle, rapporte a la population d'entreprises actives de
+  la region. Sept jeux de donnees agreges : par departement, par secteur
+  d'activite, par type de contrat, par taille d'employeur, par metier, par
+  commune, et par outil d'IA nomme dans le texte de l'offre. Source des offres :
+  API Offres d'emploi de France Travail. Source de la population d'entreprises :
+  API Recherche d'entreprises de l'annuaire des entreprises. Traitement Oriq.
+type: dataset
+version: "2026-09-14"
+date-released: "2026-09-14"
+license: CC-BY-4.0
+url: "https://oriq.fr/observatoire/"
+authors:
+  - name: "Oriq"
+    website: "https://oriq.fr/"
+    city: "Toulouse"
+    country: FR
+    email: "contact@oriq.fr"
+keywords:
+  - intelligence artificielle
+  - emploi
+  - Occitanie
+  - offres d'emploi
+  - open data
+  - France Travail
