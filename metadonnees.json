@@ -1,0 +1,55 @@
+{
+  "titre": "Observatoire de l'IA dans les entreprises d'Occitanie",
+  "producteur": "Oriq",
+  "releve_le": "2026-09-23",
+  "periode": {
+    "debut": "2026-09-01",
+    "fin": "2026-09-23"
+  },
+  "couverture_spatiale": "Occitanie, France",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "citation": "Observatoire de l'IA dans les entreprises d'Occitanie, Oriq, releve du 23 septembre 2026, https://oriq.fr/observatoire/",
+  "page": "https://oriq.fr/observatoire/",
+  "methode": "https://oriq.fr/observatoire/methodologie.html",
+  "population_de_reference": {
+    "libelle": "Entreprises actives de plus de 5 salariés en Occitanie",
+    "total": 68373,
+    "source": "API Recherche d'entreprises (annuaire-entreprises.data.gouv.fr), relevé du 14 septembre 2026"
+  },
+  "sources": {
+    "france_travail": {
+      "id": "france_travail",
+      "nom": "API Offres d'emploi v2",
+      "organisme": "France Travail",
+      "url": "https://francetravail.io/produits-partages/catalogue/offres-emploi",
+      "licence": "Contrat de licence France Travail",
+      "acces": "Gratuit, sur inscription et acceptation du contrat"
+    },
+    "recherche_entreprises": {
+      "id": "recherche_entreprises",
+      "nom": "API Recherche d'entreprises",
+      "organisme": "Direction interministerielle du numerique",
+      "url": "https://recherche-entreprises.api.gouv.fr/",
+      "licence": "Licence Ouverte 2.0",
+      "acces": "Ouvert, sans cle"
+    },
+    "geo": {
+      "id": "geo",
+      "nom": "API Decoupage administratif",
+      "organisme": "Etalab",
+      "url": "https://geo.api.gouv.fr/",
+      "licence": "Licence Ouverte 2.0",
+      "acces": "Ouvert, sans cle"
+    },
+    "contours": {
+      "id": "contours",
+      "nom": "Contours des departements",
+      "organisme": "IGN, via France GeoJSON",
+      "url": "https://france-geojson.gregoiredavid.fr/",
+      "licence": "ODbL",
+      "acces": "Ouvert"
+    }
+  },
+  "offres_lues": 32864
+}

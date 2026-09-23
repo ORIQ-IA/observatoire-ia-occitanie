@@ -1,0 +1,31 @@
+outil;famille;offres;pour_dix_mille;ic95_bas;ic95_haut
+IA générative;technique;25;7.6;5.2;11.2
+Grands modèles de langage;technique;16;4.9;3;7.9
+Agents IA;technique;13;4;2.3;6.8
+Machine learning;technique;12;3.7;2.1;6.4
+Recherche augmentée;technique;10;3;1.7;5.6
+PyTorch;cadre;6;1.8;0.8;4
+Claude Code;developpement;4;1.2;0.5;3.1
+Copilot;assistant;4;1.2;0.5;3.1
+Databricks;plateforme;4;1.2;0.5;3.1
+LangChain;cadre;4;1.2;0.5;3.1
+Vectorisation;technique;4;1.2;0.5;3.1
+Deep learning;technique;3;0.9;0.3;2.7
+GitHub Copilot;developpement;3;0.9;0.3;2.7
+TensorFlow;cadre;3;0.9;0.3;2.7
+Vision par ordinateur;technique;3;0.9;0.3;2.7
+ChatGPT;assistant;2;0.6;0.2;2.2
+Llama;assistant;2;0.6;0.2;2.2
+Reconnaissance vocale;technique;2;0.6;0.2;2.2
+scikit-learn;cadre;2;0.6;0.2;2.2
+Claude;assistant;1;0.3;0.1;1.7
+Copilot Studio;assistant;1;0.3;0.1;1.7
+Gemini;assistant;1;0.3;0.1;1.7
+Hugging Face;plateforme;1;0.3;0.1;1.7
+LlamaIndex;cadre;1;0.3;0.1;1.7
+Ollama;plateforme;1;0.3;0.1;1.7
+OpenCV;cadre;1;0.3;0.1;1.7
+Perplexity;assistant;1;0.3;0.1;1.7
+Qwen;assistant;1;0.3;0.1;1.7
+Vertex AI;plateforme;1;0.3;0.1;1.7
+YOLO;cadre;1;0.3;0.1;1.7
