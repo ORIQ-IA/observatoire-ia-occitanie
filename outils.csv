@@ -1,0 +1,47 @@
+outil;famille;offres;pour_dix_mille;ic95_bas;ic95_haut
+IA générative;technique;55;8.4;6.5;11
+Agents IA;technique;29;4.5;3.1;6.4
+Grands modèles de langage;technique;26;4;2.7;5.9
+Machine learning;technique;25;3.8;2.6;5.7
+Recherche augmentée;technique;14;2.2;1.3;3.6
+Copilot;assistant;12;1.8;1.1;3.2
+PyTorch;cadre;10;1.5;0.8;2.8
+Databricks;plateforme;8;1.2;0.6;2.4
+Deep learning;technique;8;1.2;0.6;2.4
+Claude Code;developpement;7;1.1;0.5;2.2
+GitHub Copilot;developpement;6;0.9;0.4;2
+TensorFlow;cadre;6;0.9;0.4;2
+ChatGPT;assistant;5;0.8;0.3;1.8
+Vision par ordinateur;technique;5;0.8;0.3;1.8
+Gemini;assistant;4;0.6;0.2;1.6
+LangChain;cadre;4;0.6;0.2;1.6
+Vectorisation;technique;4;0.6;0.2;1.6
+Claude;assistant;3;0.5;0.2;1.4
+Ingénierie de prompt;technique;3;0.5;0.2;1.4
+Llama;assistant;3;0.5;0.2;1.4
+scikit-learn;cadre;3;0.5;0.2;1.4
+DALL-E;image;2;0.3;0.1;1.1
+Dataiku;plateforme;2;0.3;0.1;1.1
+Hugging Face;plateforme;2;0.3;0.1;1.1
+Midjourney;image;2;0.3;0.1;1.1
+Mistral AI;assistant;2;0.3;0.1;1.1
+MLflow;plateforme;2;0.3;0.1;1.1
+OpenCV;cadre;2;0.3;0.1;1.1
+Perplexity;assistant;2;0.3;0.1;1.1
+Reconnaissance vocale;technique;2;0.3;0.1;1.1
+Traitement du langage;technique;2;0.3;0.1;1.1
+Azure OpenAI;plateforme;1;0.2;0;0.9
+Copilot Studio;assistant;1;0.2;0;0.9
+Cursor;developpement;1;0.2;0;0.9
+ElevenLabs;image;1;0.2;0;0.9
+GPT;assistant;1;0.2;0;0.9
+HeyGen;image;1;0.2;0;0.9
+Le Chat;assistant;1;0.2;0;0.9
+LlamaIndex;cadre;1;0.2;0;0.9
+Ollama;plateforme;1;0.2;0;0.9
+Qwen;assistant;1;0.2;0;0.9
+Stable Diffusion;image;1;0.2;0;0.9
+Tesseract;cadre;1;0.2;0;0.9
+Vertex AI;plateforme;1;0.2;0;0.9
+XGBoost;cadre;1;0.2;0;0.9
+YOLO;cadre;1;0.2;0;0.9
